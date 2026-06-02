@@ -1,0 +1,10 @@
+{
+  "id": "calibre-bridge",
+  "name": "Calibre Bridge",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Sync your Calibre ebook library into Bases-ready book notes (covers, ratings, reading status) with two-way write-back of ratings and status to Calibre.",
+  "author": "Caio Niehues",
+  "authorUrl": "https://github.com/caioniehues",
+  "isDesktopOnly": true
+}

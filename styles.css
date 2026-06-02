@@ -1,0 +1,8 @@
+/* Calibre Bridge — settings tab tweaks */
+.calibre-bridge-section-heading {
+  margin-top: 1.5em;
+  font-size: var(--font-ui-small);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+}
